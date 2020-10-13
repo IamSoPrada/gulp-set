@@ -1,7 +1,7 @@
 # gulp-set
 Here you can see the prepared gulp file and approximate structure of any simple HTML project.
 In the gulp file, I use several tools for developing HTML pages. In order to install 
-These dev dependencies type this command in your console: npm i.
+dev dependencies type this command in your console: npm i.
 1) Inside /src/ folder you can find several folders and files. I'll describe every one of them:
   In the _layouts folder, you can open up the main. pug file and see the basic structure of the page, it contains the header, block content, and footer.
   We will extend block content with unique content for every page, but our components header and footer will stay on the page.
